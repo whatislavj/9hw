@@ -1,0 +1,178 @@
+@import url("https://fonts.cdnfonts.com/css/industry-test");
+.title1 {
+  font-size: 60px;
+  font-weight: 700;
+  line-height: 50px;
+  font-family: "Industry Test", sans-serif;
+}
+
+.title2 {
+  font-size: 60px;
+  font-weight: 700;
+  line-height: 50px;
+  font-family: "Industry Test", sans-serif;
+}
+
+.title3 {
+  font-size: 60px;
+  font-weight: 700;
+  line-height: 50px;
+  font-family: "Industry Test", sans-serif;
+}
+
+.title4 {
+  font-size: 60px;
+  font-weight: 700;
+  line-height: 50px;
+  font-family: "Industry Test", sans-serif;
+}
+
+.title5 {
+  font-size: 60px;
+  font-weight: 700;
+  line-height: 50px;
+  font-family: "Industry Test", sans-serif;
+}
+
+.paragraph1 {
+  font-family: "Bombardier", sans-serif;
+  font-size: 60px;
+  font-weight: 700;
+  line-height: 50px;
+}
+
+.paragraph2 {
+  font-family: "Bombardier", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  line-height: 40px;
+}
+
+.paragraph3 {
+  font-family: "Bombardier", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  line-height: 40px;
+}
+
+.paragraph4 {
+  font-family: "Bombardier", sans-serif;
+  font-size: 24px;
+  font-weight: 100;
+  line-height: 20px;
+}
+
+.paragraph5 {
+  font-family: "Bombardier", sans-serif;
+  font-size: 24px;
+  font-weight: 100;
+  line-height: 20px;
+}
+
+.div1 {
+  height: 150px;
+  width: 250px;
+  color: white;
+  background-color: #2E2E2E;
+  font-family: "Bombardier", sans-serif;
+}
+
+.div2 {
+  margin-top: 20px;
+  height: 100px;
+  width: 200px;
+  color: black;
+  background-color: gray;
+  font-family: "Bombardier", sans-serif;
+}
+
+@media screen and (max-width: 1024px) {
+  .paragraph1 {
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 40px;
+  }
+  .paragraph2 {
+    font-size: 24px;
+    font-weight: 100;
+    line-height: 20px;
+    color: aqua;
+  }
+  .paragraph3 {
+    font-size: 24px;
+    font-weight: 100;
+    line-height: 20px;
+  }
+}
+@media screen and (max-width: 780px) {
+  .title1 {
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 40px;
+  }
+  .title2 {
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 40px;
+  }
+  .title3 {
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 40px;
+  }
+  .title4 {
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 40px;
+  }
+  .title5 {
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 40px;
+    color: green;
+  }
+}
+@media screen and (max-width: 400px) {
+  .title1 {
+    font-size: 24px;
+    font-weight: 100;
+    line-height: 20px;
+  }
+  .title2 {
+    font-size: 24px;
+    font-weight: 100;
+    line-height: 20px;
+  }
+  .title3 {
+    font-size: 24px;
+    font-weight: 100;
+    line-height: 20px;
+  }
+  .title4 {
+    font-size: 24px;
+    font-weight: 100;
+    line-height: 20px;
+  }
+  .title5 {
+    font-size: 24px;
+    font-weight: 100;
+    line-height: 20px;
+  }
+  .paragraph1 {
+    font-size: 16px;
+    color: #663399;
+  }
+  .paragraph2 {
+    font-size: 16px;
+  }
+  .paragraph3 {
+    font-size: 16px;
+  }
+  .paragraph4 {
+    font-size: 16px;
+    font-family: "Industry Test", sans-serif;
+  }
+  .paragraph5 {
+    font-size: 16px;
+  }
+}/*# sourceMappingURL=style.css.map */
